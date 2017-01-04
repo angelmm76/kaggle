@@ -1,3 +1,3 @@
 # kaggle
-Code of Kaggle competitions
+Code of my Kaggle competitions
 https://www.kaggle.com/angelmm
